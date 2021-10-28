@@ -1,6 +1,6 @@
 # Hi there! 👋👩‍💻
 
-My name is Alysha van Duynhoven and I'm a PhD Student at Simon Fraser University in the Spatial Analysis and Modeling Lab. My research focuses on exploring and advancing geospatial artificial intelligence methods.
+My name is Alysha van Duynhoven. I'm a third year PhD Student at Simon Fraser University in the Spatial Analysis and Modeling Lab. My research focuses on exploring and advancing geospatial artificial intelligence methods.
 
 - 🌱 I’m currently working on: finishing my PhD! 
 - 💬 Ask me about: spatial analysis, machine learning for geospatial applications, anything GIS related
