@@ -8,4 +8,4 @@ My name is Alysha van Duynhoven. I am a PhD Student at Simon Fraser University i
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I love to read 📖, write ✍️, and play soccer ⚽
 
-[1]: https://www.linkedin.com/in/alyshavanduynhoven/
+[1]: https://www.linkedin.com/in/alyshavd/
